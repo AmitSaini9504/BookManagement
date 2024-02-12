@@ -27,5 +27,7 @@ package JavaLearning;
                     ch1--;
                 }
                 while(ch1 >='A');
+                
+                System.out.println("Checking done.....");
     }
 }
